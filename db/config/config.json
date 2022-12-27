@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "bloop",
+    "password": "bloopglobal",
+    "database": "bloop_web",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "bloop",
+    "password": "bloopglobal",
+    "database": "bloop_web",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "bloop",
+    "password": "bloopglobal",
+    "database": "bloop_web",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
